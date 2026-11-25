@@ -14,7 +14,7 @@ To understand how LogLens works, see the README file.
 2. Select the Code button, which you will then see Download ZIP
 3. Extract zip from the download folder
 
-## Step 2: Go to the respository root 
+## Step 2: Go to the repository root 
 The repository root contains the `loglens.py` and `data` folder. Keep in mind that you must every LogLens command from the repository root.
 
 Note:
